@@ -21,8 +21,10 @@ Hards Skills:
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranklinPereira2309)](https://github.com/FranklinPereira2309/github-readme-stats)
-
 </div>
+
+![Snake animation](https://github.com/FranklinPereira2309/FranklinPereira2309/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
