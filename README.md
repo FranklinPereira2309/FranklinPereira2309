@@ -14,6 +14,12 @@ Meu nome é Franklin, sou aluno e desenvolvedor Full Stack desde 2021 na Cubos A
 
 
 Hards Skills:
+*JavaScrip* -
+*ReactJs* -
+*NextJs* -
+*HTML* -
+*CSS* 
+
 <div style="display: inline_block">
   <img align="center" alt="Fran-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Fran-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
