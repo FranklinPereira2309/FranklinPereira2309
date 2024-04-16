@@ -19,6 +19,7 @@ Hards Skills:
 *TypeScript* -
 *ReactJs* -
 *NextJs* -
+*Angular* -
 *HTML* -
 *CSS* 
 
