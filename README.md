@@ -29,7 +29,8 @@ Hards Skills:
     <img align="center" alt="Fran-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Fran-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Fran-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  ![image](https://github.com/FranklinPereira2309/FranklinPereira2309/assets/94021811/f5f5b6bb-b2ef-440e-8eca-c14d1503a2f2)
+  <img align="center" alt="Fran-CSS" height="30" width="40" src="https://github.com/FranklinPereira2309/FranklinPereira2309/assets/94021811/f5f5b6bb-b2ef-440e-8eca-c14d1503a2f2">
+  
 
 </div><br>
 
